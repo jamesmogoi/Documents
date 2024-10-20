@@ -46,6 +46,14 @@ input[type="text"], input[type="email"], input[type="tel"], input[type="number"]
     width: 100%;
 }
 
+input::placeholder {
+	color: #ccc;
+}
+
+input:focus::placeholder {
+	color: transparent;
+}
+
 button {
     grid-column: span 3; 
     padding: 10px 20px;

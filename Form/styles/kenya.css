@@ -1,0 +1,33 @@
+#nav-country-name{
+    color:red 
+    font-size:2 em 
+}
+color:red 
+font-size:2 em
+
+
+#corousel-section{
+    max-height: 90vh;
+}
+p{
+    text-align: justify;
+    font-family: sans-serif
+    font-size: 1.3em;
+
+
+}
+h2{
+    color: blue;
+    
+}
+
+.custom-card{
+    max-height: 300px;
+}
+@media screen and (max-width: 601px) {
+    .page-sections{
+        margin: 6px;
+    }
+    
+}
+    
